@@ -1,0 +1,3 @@
+enum LoggingClients {
+  case macroFactor
+}
